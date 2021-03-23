@@ -1,0 +1,16 @@
+C:\Users\paraq\Desktop\PracticaParcial\bin\Debug\net5.0\PracticaParcial.exe
+C:\Users\paraq\Desktop\PracticaParcial\bin\Debug\net5.0\PracticaParcial.deps.json
+C:\Users\paraq\Desktop\PracticaParcial\bin\Debug\net5.0\PracticaParcial.runtimeconfig.json
+C:\Users\paraq\Desktop\PracticaParcial\bin\Debug\net5.0\PracticaParcial.runtimeconfig.dev.json
+C:\Users\paraq\Desktop\PracticaParcial\bin\Debug\net5.0\PracticaParcial.dll
+C:\Users\paraq\Desktop\PracticaParcial\bin\Debug\net5.0\ref\PracticaParcial.dll
+C:\Users\paraq\Desktop\PracticaParcial\bin\Debug\net5.0\PracticaParcial.pdb
+C:\Users\paraq\Desktop\PracticaParcial\obj\Debug\net5.0\PracticaParcial.csprojAssemblyReference.cache
+C:\Users\paraq\Desktop\PracticaParcial\obj\Debug\net5.0\PracticaParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paraq\Desktop\PracticaParcial\obj\Debug\net5.0\PracticaParcial.AssemblyInfoInputs.cache
+C:\Users\paraq\Desktop\PracticaParcial\obj\Debug\net5.0\PracticaParcial.AssemblyInfo.cs
+C:\Users\paraq\Desktop\PracticaParcial\obj\Debug\net5.0\PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\paraq\Desktop\PracticaParcial\obj\Debug\net5.0\PracticaParcial.dll
+C:\Users\paraq\Desktop\PracticaParcial\obj\Debug\net5.0\ref\PracticaParcial.dll
+C:\Users\paraq\Desktop\PracticaParcial\obj\Debug\net5.0\PracticaParcial.pdb
+C:\Users\paraq\Desktop\PracticaParcial\obj\Debug\net5.0\PracticaParcial.genruntimeconfig.cache
