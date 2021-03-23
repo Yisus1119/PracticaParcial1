@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paraq\\Desktop\\PracticaParcial\\PracticaParcial.csproj": {}
+    "C:\\Users\\paraq\\Downloads\\PracticaParcial1\\PracticaParcial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paraq\\Desktop\\PracticaParcial\\PracticaParcial.csproj": {
+    "C:\\Users\\paraq\\Downloads\\PracticaParcial1\\PracticaParcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paraq\\Desktop\\PracticaParcial\\PracticaParcial.csproj",
+        "projectUniqueName": "C:\\Users\\paraq\\Downloads\\PracticaParcial1\\PracticaParcial.csproj",
         "projectName": "PracticaParcial",
-        "projectPath": "C:\\Users\\paraq\\Desktop\\PracticaParcial\\PracticaParcial.csproj",
+        "projectPath": "C:\\Users\\paraq\\Downloads\\PracticaParcial1\\PracticaParcial.csproj",
         "packagesPath": "C:\\Users\\paraq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paraq\\Desktop\\PracticaParcial\\obj\\",
+        "outputPath": "C:\\Users\\paraq\\Downloads\\PracticaParcial1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

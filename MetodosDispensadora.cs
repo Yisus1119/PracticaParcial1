@@ -7,7 +7,6 @@ namespace PracticaParcial
 
 public  int acumulador = 0;
        public int deposito;
-       public int ProductosVendidos;
 
         public void DispensadoraAlimentos()
         {
@@ -341,8 +340,7 @@ public  int acumulador = 0;
 
 
                     case 11:
-                        Console.WriteLine("Cantidad de productos vendidos: "+ ProductosVendidos);
-                        Console.WriteLine("| Stock de productos |");
+                        Console.WriteLine("| Stock de productos vendidos y cantidad disponibles |");
                         Console.WriteLine("1. Coca Cola 500 ml. 25 Pesos, cantidades disponibles: " + StockProductos[0] + " de: 15");
                         Console.WriteLine("2. Botella de Agua Dasani 500 ml. 20 Pesos, cantidades disponibles: " + StockProductos[1] + " de: 10");
                         Console.WriteLine("3. Lays Queso. 25 Pesos, cantidades disponibles: " + StockProductos[2] + " de: 7");
@@ -354,6 +352,7 @@ public  int acumulador = 0;
                         Console.WriteLine("9: Galleta Oreo. 15 Pesos, cantidades disponibles: " + StockProductos[8] + " de: 3");
                         Console.WriteLine("10. Red Rock Uva 500ml. 20 Pesos, cantidades disponibles: " + StockProductos[9] + " de: 6");
                         Console.WriteLine("");
+                        Console.WriteLine("Total vendido: "+acumulador);
 
 
                         break;
